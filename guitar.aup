@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="guitar_data" version="1.3.0" audacityversion="2.2.2" sel0="0.0696598639" sel1="0.0696598639" vpos="0" h="0.0000000000" zoom="86.1328125000" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="Software" value="Adobe Audition CC (Windows)"/>
+		<tag name="YEAR" value="2014-04-23T14:35:56-04:00"/>
+	</tags>
+	<wavetrack name="234739__fenrirfangs__guitar-pluck" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.258925" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="14092">
+				<waveblock start="0">
+					<simpleblockfile filename="e08085f6.au" len="14092" min="-0.787362" max="0.99994" rms="0.191188"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="7.78421769" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="9604">
+				<waveblock start="0">
+					<silentblockfile len="9604"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="234739__fenrirfangs__guitar-pluck" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.29922902" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="11406">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808b4c.au" len="11406" min="-0.787274" max="0.999862" rms="0.203107"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="7.78421769" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="9604">
+				<waveblock start="0">
+					<silentblockfile len="9604"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="234739__fenrirfangs__guitar-pluck" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.59936508" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="9604">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808769.au" len="9604" min="-0.787567" max="0.999954" rms="0.197392"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="7.78421769" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="9604">
+				<waveblock start="0">
+					<silentblockfile len="9604"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
